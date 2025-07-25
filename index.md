@@ -1,4 +1,3 @@
-
 ---
 title: "Welcome to Lys Lære Studio"
 layout: splash
