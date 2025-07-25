@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: page
+layout: splash
 permalink: /projects/
 author_profile: true
 ---
